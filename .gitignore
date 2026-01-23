@@ -2,27 +2,29 @@
 .dart_tool/
 .packages
 .pub/
-.pub-cache/
+pubspec.lock
 build/
 
-# iOS
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# iOS/Pods
 ios/Pods/
 ios/.symlinks/
 ios/Flutter/Flutter.framework
 ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
 ios/Flutter/ephemeral/
+ios/Runner/GeneratedPluginRegistrant.*
 
 # Android
 android/.gradle/
 android/local.properties
-android/key.properties
-*.jks
 
-# IDE
-.idea/
-*.iml
-.vscode/
-.DS_Store
-
-# Logs
-*.log
+# Generated files
+*.g.dart
