@@ -1,6 +1,6 @@
 # tokosai_shift_viewer
 
-A new Flutter project.
+サークルでのシフト管理用アプリのプロトタイプです。
 
 ## Getting Started
 
