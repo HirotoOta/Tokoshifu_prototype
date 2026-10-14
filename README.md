@@ -1,16 +1,6 @@
 # tokosai_shift_viewer
 
-サークルでのシフト管理用アプリのプロトタイプです。
+文化祭サークルでのシフト管理用アプリのプロトタイプです。
 
-## Getting Started
+これまでの課題として、数百人のシフトを今までスプレッドシートで管理・共有しており、自分のシフトの確認が難しいことがありました。そのため、自分の学籍番号を入力すれば文化祭当日のシフトを一覧にして表示できるようなアプリを開発しました。現在実用には至ってはいませんが、将来的にはシフト管理者がスプレッドシートで作成したシフト表を自動でインポートできるような機能を実装することを目標にしています。
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
